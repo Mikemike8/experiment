@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../studio.h/week01-day02-wireframing-page-structure-Mikemike8"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "experiment",
+		"liveServer.settings.port": 5501
+	}
+}
